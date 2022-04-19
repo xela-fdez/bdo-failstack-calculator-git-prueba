@@ -1,0 +1,8 @@
+Concentrated Magical Blackstone Armor:2060000
+Concentrated Magical Blackstone Weapon:2790000
+Blackstone Armor:117000
+Blackstone Weapon:120000
+Grunil Helmet:500000
+Memory Fragment:2720000
+Failstack:240
+Base failstack chance (0-5):2
